@@ -102,7 +102,6 @@
                             <modelPackage>org.openapitools.codegen.api.model</modelPackage>
                             <configOptions>
                                 <interfaceOnly>true</interfaceOnly>
-                                <apiPackage>org.openapitools.codegen.controller</apiPackage>
                                 <serializableModel>true</serializableModel>
                                 <documentationProvider>springdoc</documentationProvider>
 
