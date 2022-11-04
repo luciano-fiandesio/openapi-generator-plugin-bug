@@ -1,6 +1,6 @@
 # Open Api Generator
 
-Sample code to show a problem with (Open Api Generator)[https://github.com/OpenAPITools/openapi-generator]
+Sample code to show a problem with [Open Api Generator](https://github.com/OpenAPITools/openapi-generator)
 
 # How to reproduce the bug
 
