@@ -1,6 +1,7 @@
-# Open Api Generator
+# Open Api Generator Bug
 
-Sample code to show a problem with [Open Api Generator](https://github.com/OpenAPITools/openapi-generator)
+Sample code to allow reproducing the following bug: https://github.com/OpenAPITools/openapi-generator/issues/13917
+with the [Open Api Generator](https://github.com/OpenAPITools/openapi-generator).
 
 # How to reproduce the bug
 
